@@ -1,0 +1,4575 @@
+{
+    "DATA": [
+        {
+            "comment": "7",
+            "startStation": 2711,
+            "endStation": 2712,
+            "time": 5.0
+        },
+        {
+            "startStation": 2712,
+            "endStation": 2713,
+            "time": 2.83
+        },
+        {
+            "startStation": 2713,
+            "endStation": 2714,
+            "time": 2.5
+        },
+        {
+            "startStation": 2714,
+            "endStation": 2715,
+            "time": 2.0
+        },
+        {
+            "startStation": 2715,
+            "endStation": 2716,
+            "time": 1.83
+        },
+        {
+            "startStation": 2716,
+            "endStation": 2717,
+            "time": 1.67
+        },
+        {
+            "startStation": 2717,
+            "endStation": 2718,
+            "time": 2.0
+        },
+        {
+            "startStation": 2718,
+            "endStation": 2719,
+            "time": 1.5
+        },
+        {
+            "startStation": 2719,
+            "endStation": 2720,
+            "time": 1.67
+        },
+        {
+            "startStation": 2720,
+            "endStation": 2721,
+            "time": 1.83
+        },
+        {
+            "startStation": 2721,
+            "endStation": 2722,
+            "time": 2.33
+        },
+        {
+            "startStation": 2722,
+            "endStation": 2723,
+            "time": 1.67
+        },
+        {
+            "startStation": 2723,
+            "endStation": 2724,
+            "time": 1.67
+        },
+        {
+            "startStation": 2724,
+            "endStation": 2725,
+            "time": 1.5
+        },
+        {
+            "startStation": 2725,
+            "endStation": 2726,
+            "time": 1.83
+        },
+        {
+            "startStation": 2726,
+            "endStation": 2727,
+            "time": 2.0
+        },
+        {
+            "startStation": 2727,
+            "endStation": 2728,
+            "time": 1.83
+        },
+        {
+            "startStation": 2728,
+            "endStation": 2729,
+            "time": 2.0
+        },
+        {
+            "startStation": 2729,
+            "endStation": 2730,
+            "time": 1.83
+        },
+        {
+            "startStation": 2730,
+            "endStation": 2731,
+            "time": 3.0
+        },
+        {
+            "startStation": 2731,
+            "endStation": 2732,
+            "time": 2.0
+        },
+        {
+            "startStation": 2732,
+            "endStation": 2733,
+            "time": 1.67
+        },
+        {
+            "startStation": 2733,
+            "endStation": 2734,
+            "time": 1.83
+        },
+        {
+            "startStation": 2734,
+            "endStation": 2735,
+            "time": 1.5
+        },
+        {
+            "startStation": 2735,
+            "endStation": 2736,
+            "time": 2.17
+        },
+        {
+            "startStation": 2736,
+            "endStation": 2737,
+            "time": 3.0
+        },
+        {
+            "startStation": 2737,
+            "endStation": 2738,
+            "time": 2.17
+        },
+        {
+            "startStation": 2738,
+            "endStation": 2739,
+            "time": 1.83
+        },
+        {
+            "startStation": 2739,
+            "endStation": 2740,
+            "time": 3.0
+        },
+        {
+            "startStation": 2740,
+            "endStation": 2741,
+            "time": 1.67
+        },
+        {
+            "startStation": 2741,
+            "endStation": 2742,
+            "time": 2.0
+        },
+        {
+            "startStation": 2742,
+            "endStation": 2743,
+            "time": 2.33
+        },
+        {
+            "startStation": 2743,
+            "endStation": 2744,
+            "time": 1.67
+        },
+        {
+            "startStation": 2744,
+            "endStation": 2745,
+            "time": 1.83
+        },
+        {
+            "startStation": 2745,
+            "endStation": 2746,
+            "time": 2.5
+        },
+        {
+            "startStation": 2746,
+            "endStation": 2747,
+            "time": 2.0
+        },
+        {
+            "startStation": 2747,
+            "endStation": 2748,
+            "time": 1.83
+        },
+        {
+            "startStation": 2748,
+            "endStation": 2749,
+            "time": 2.5
+        },
+        {
+            "startStation": 2749,
+            "endStation": 2750,
+            "time": 2.33
+        },
+        {
+            "startStation": 2750,
+            "endStation": 2751,
+            "time": 2.33
+        },
+        {
+            "startStation": 2751,
+            "endStation": 2752,
+            "time": 2.83
+        },
+        {
+            "startStation": 2752,
+            "endStation": 3753,
+            "time": 3.0
+        },
+        {
+            "startStation": 3753,
+            "endStation": 3754,
+            "time": 2.0
+        },
+        {
+            "startStation": 3754,
+            "endStation": 3755,
+            "time": 1.83
+        },
+        {
+            "startStation": 3755,
+            "endStation": 3756,
+            "time": 1.83
+        },
+        {
+            "startStation": 3756,
+            "endStation": 3757,
+            "time": 1.83
+        },
+        {
+            "startStation": 3757,
+            "endStation": 3758,
+            "time": 1.67
+        },
+        {
+            "startStation": 3758,
+            "endStation": 3759,
+            "time": 1.83
+        },
+        {
+            "startStation": 3759,
+            "endStation": 3760,
+            "time": 1.67
+        },
+        {
+            "startStation": 3760,
+            "endStation": 3761,
+            "time": 1.83
+        },
+        {
+            "startStation": 3761,
+            "endStation": 3762,
+            "time": 2.5
+        },
+        {
+            "startStation": 3762,
+            "endStation": 3763,
+            "time": 3.5,
+            "comment": "7end"
+        },
+        {
+            "comment": "shinbundang",
+            "startStation": 4319,
+            "endStation": 4318,
+            "time": 4.08
+        },
+        {
+            "startStation": 4318,
+            "endStation": 4317,
+            "time": 3.18
+        },
+        {
+            "startStation": 4317,
+            "endStation": 4316,
+            "time": 3.02
+        },
+        {
+            "startStation": 4316,
+            "endStation": 4315,
+            "time": 2.5300000000000002
+        },
+        {
+            "startStation": 4315,
+            "endStation": 4314,
+            "time": 2.9
+        },
+        {
+            "startStation": 4314,
+            "endStation": 4313,
+            "time": 2.63
+        },
+        {
+            "startStation": 4313,
+            "endStation": 4312,
+            "time": 2.67
+        },
+        {
+            "startStation": 4312,
+            "endStation": 4311,
+            "time": 3.3
+        },
+        {
+            "startStation": 4311,
+            "endStation": 4310,
+            "time": 6.55
+        },
+        {
+            "startStation": 4310,
+            "endStation": 4309,
+            "time": 2.92
+        },
+        {
+            "startStation": 4309,
+            "endStation": 4308,
+            "time": 2.18
+        },
+        {
+            "startStation": 4308,
+            "endStation": 4307,
+            "time": 2.13
+        },
+        {
+            "startStation": 4307,
+            "endStation": 4306,
+            "time": 1.72
+        },
+        {
+            "startStation": 4306,
+            "endStation": 4305,
+            "time": 1.7
+        },
+        {
+            "startStation": 4305,
+            "endStation": 4304,
+            "time": 1.52,
+            "comment": "shinbundang end"
+        },
+        {
+            "startStation": 4929,
+            "endStation": 4207,
+            "time": 10.0,
+            "comment": "same station"
+        },
+        {
+            "startStation": 12011,
+            "endStation": 1015,
+            "time": 10.0
+        },
+        {
+            "startStation": 4306,
+            "endStation": 4125,
+            "time": 10.0
+        },
+        {
+            "startStation": 4401,
+            "endStation": 4116,
+            "time": 10.0
+        },
+        {
+            "startStation": 4206,
+            "endStation": 4105,
+            "time": 10.0
+        },
+        {
+            "startStation": 4929,
+            "endStation": 4102,
+            "time": 10.0
+        },
+        {
+            "startStation": 3763,
+            "endStation": 3213,
+            "time": 10.0
+        },
+        {
+            "startStation": 4209,
+            "endStation": 3207,
+            "time": 10.0
+        },
+        {
+            "startStation": 3221,
+            "endStation": 3124,
+            "time": 10.0
+        },
+        {
+            "startStation": 3761,
+            "endStation": 3118,
+            "time": 10.0
+        },
+        {
+            "startStation": 4208,
+            "endStation": 3110,
+            "time": 10.0
+        },
+        {
+            "startStation": 4133,
+            "endStation": 2816,
+            "time": 10.0
+        },
+        {
+            "startStation": 3761,
+            "endStation": 2761,
+            "time": 10.0
+        },
+        {
+            "startStation": 3760,
+            "endStation": 2760,
+            "time": 10.0
+        },
+        {
+            "startStation": 3759,
+            "endStation": 2759,
+            "time": 10.0
+        },
+        {
+            "startStation": 3758,
+            "endStation": 2758,
+            "time": 10.0
+        },
+        {
+            "startStation": 3757,
+            "endStation": 2757,
+            "time": 10.0
+        },
+        {
+            "startStation": 3756,
+            "endStation": 2756,
+            "time": 10.0
+        },
+        {
+            "startStation": 3755,
+            "endStation": 2755,
+            "time": 10.0
+        },
+        {
+            "startStation": 3754,
+            "endStation": 2754,
+            "time": 10.0
+        },
+        {
+            "startStation": 3753,
+            "endStation": 2753,
+            "time": 10.0
+        },
+        {
+            "startStation": 4404,
+            "endStation": 2744,
+            "time": 10.0
+        },
+        {
+            "startStation": 4123,
+            "endStation": 2736,
+            "time": 10.0
+        },
+        {
+            "startStation": 4305,
+            "endStation": 2734,
+            "time": 10.0
+        },
+        {
+            "startStation": 2719,
+            "endStation": 2646,
+            "time": 10.0
+        },
+        {
+            "startStation": 4712,
+            "endStation": 2639,
+            "time": 10.0
+        },
+        {
+            "startStation": 4202,
+            "endStation": 2627,
+            "time": 10.0
+        },
+        {
+            "startStation": 4204,
+            "endStation": 2619,
+            "time": 10.0
+        },
+        {
+            "startStation": 9004,
+            "endStation": 2615,
+            "time": 10.0
+        },
+        {
+            "startStation": 9996,
+            "endStation": 2563,
+            "time": 10.0
+        },
+        {
+            "startStation": 9995,
+            "endStation": 2562,
+            "time": 10.0
+        },
+        {
+            "startStation": 4136,
+            "endStation": 2556,
+            "time": 10.0
+        },
+        {
+            "startStation": 2812,
+            "endStation": 2548,
+            "time": 10.0
+        },
+        {
+            "startStation": 2727,
+            "endStation": 2545,
+            "time": 10.0
+        },
+        {
+            "startStation": 2635,
+            "endStation": 2538,
+            "time": 10.0
+        },
+        {
+            "startStation": 4202,
+            "endStation": 2530,
+            "time": 10.0
+        },
+        {
+            "startStation": 4115,
+            "endStation": 2527,
+            "time": 10.0
+        },
+        {
+            "startStation": 4929,
+            "endStation": 2513,
+            "time": 10.0
+        },
+        {
+            "startStation": 3754,
+            "endStation": 1982,
+            "time": 10.0
+        },
+        {
+            "startStation": 4929,
+            "endStation": 1980,
+            "time": 10.0
+        },
+        {
+            "startStation": 9002,
+            "endStation": 1953,
+            "time": 10.0
+        },
+        {
+            "startStation": 4602,
+            "endStation": 1905,
+            "time": 10.0
+        },
+        {
+            "startStation": 2712,
+            "endStation": 1903,
+            "time": 10.0
+        },
+        {
+            "startStation": 3130,
+            "endStation": 1884,
+            "time": 10.0
+        },
+        {
+            "startStation": 4501,
+            "endStation": 1865,
+            "time": 10.0
+        },
+        {
+            "startStation": 9009,
+            "endStation": 1863,
+            "time": 10.0
+        },
+        {
+            "startStation": 4313,
+            "endStation": 1858,
+            "time": 10.0
+        },
+        {
+            "startStation": 4312,
+            "endStation": 1857,
+            "time": 10.0
+        },
+        {
+            "startStation": 2827,
+            "endStation": 1853,
+            "time": 10.0
+        },
+        {
+            "startStation": 4127,
+            "endStation": 1850,
+            "time": 10.0
+        },
+        {
+            "startStation": 2732,
+            "endStation": 1849,
+            "time": 10.0
+        },
+        {
+            "startStation": 2752,
+            "endStation": 1821,
+            "time": 10.0
+        },
+        {
+            "startStation": 4804,
+            "endStation": 1814,
+            "time": 10.0
+        },
+        {
+            "startStation": 1891,
+            "endStation": 1812,
+            "time": 10.0
+        },
+        {
+            "startStation": 3218,
+            "endStation": 1809,
+            "time": 10.0
+        },
+        {
+            "startStation": 3120,
+            "endStation": 1806,
+            "time": 10.0
+        },
+        {
+            "startStation": 4813,
+            "endStation": 1758,
+            "time": 10.0
+        },
+        {
+            "startStation": 1846,
+            "endStation": 1713,
+            "time": 10.0
+        },
+        {
+            "startStation": 2748,
+            "endStation": 1702,
+            "time": 10.0
+        },
+        {
+            "startStation": 9008,
+            "endStation": 1512,
+            "time": 10.0
+        },
+        {
+            "startStation": 1860,
+            "endStation": 1502,
+            "time": 10.0
+        },
+        {
+            "startStation": 4311,
+            "endStation": 1501,
+            "time": 10.0
+        },
+        {
+            "startStation": 1708,
+            "endStation": 1458,
+            "time": 10.0
+        },
+        {
+            "startStation": 2805,
+            "endStation": 1313,
+            "time": 10.0
+        },
+        {
+            "startStation": 2649,
+            "endStation": 1311,
+            "time": 10.0
+        },
+        {
+            "startStation": 4204,
+            "endStation": 1294,
+            "time": 10.0
+        },
+        {
+            "startStation": 4203,
+            "endStation": 1293,
+            "time": 10.0
+        },
+        {
+            "startStation": 4202,
+            "endStation": 1292,
+            "time": 10.0
+        },
+        {
+            "startStation": 4201,
+            "endStation": 1291,
+            "time": 10.0
+        },
+        {
+            "startStation": 9000,
+            "endStation": 1278,
+            "time": 10.0
+        },
+        {
+            "startStation": 4204,
+            "endStation": 1266,
+            "time": 10.0
+        },
+        {
+            "startStation": 4203,
+            "endStation": 1264,
+            "time": 10.0
+        },
+        {
+            "startStation": 4202,
+            "endStation": 1262,
+            "time": 10.0
+        },
+        {
+            "startStation": 2628,
+            "endStation": 1261,
+            "time": 10.0
+        },
+        {
+            "startStation": 4201,
+            "endStation": 1251,
+            "time": 10.0
+        },
+        {
+            "startStation": 2808,
+            "endStation": 1205,
+            "time": 10.0
+        },
+        {
+            "startStation": 2722,
+            "endStation": 1202,
+            "time": 10.0
+        },
+        {
+            "startStation": 2526,
+            "endStation": 1032,
+            "time": 10.0
+        },
+        {
+            "startStation": 2821,
+            "endStation": 1031,
+            "time": 10.0
+        },
+        {
+            "startStation": 9007,
+            "endStation": 1030,
+            "time": 10.0
+        },
+        {
+            "startStation": 2645,
+            "endStation": 1018,
+            "time": 10.0
+        },
+        {
+            "startStation": 2541,
+            "endStation": 1013,
+            "time": 10.0
+        },
+        {
+            "startStation": 4402,
+            "endStation": 1005,
+            "time": 10.0
+        },
+        {
+            "startStation": 4117,
+            "endStation": 1004,
+            "time": 10.0
+        },
+        {
+            "startStation": 4201,
+            "endStation": 1001,
+            "time": 10.0
+        },
+        {
+            "startStation": 4120,
+            "endStation": 431,
+            "time": 10.0
+        },
+        {
+            "startStation": 1008,
+            "endStation": 430,
+            "time": 10.0
+        },
+        {
+            "startStation": 2629,
+            "endStation": 428,
+            "time": 10.0
+        },
+        {
+            "startStation": 4201,
+            "endStation": 426,
+            "time": 10.0
+        },
+        {
+            "startStation": 2537,
+            "endStation": 422,
+            "time": 10.0
+        },
+        {
+            "startStation": 4711,
+            "endStation": 418,
+            "time": 10.0
+        },
+        {
+            "startStation": 1022,
+            "endStation": 412,
+            "time": 10.0
+        },
+        {
+            "startStation": 2715,
+            "endStation": 411,
+            "time": 10.0
+        },
+        {
+            "startStation": 2558,
+            "endStation": 342,
+            "time": 10.0
+        },
+        {
+            "startStation": 2818,
+            "endStation": 340,
+            "time": 10.0
+        },
+        {
+            "startStation": 9007,
+            "endStation": 339,
+            "time": 10.0
+        },
+        {
+            "startStation": 1025,
+            "endStation": 334,
+            "time": 10.0
+        },
+        {
+            "startStation": 4308,
+            "endStation": 332,
+            "time": 10.0
+        },
+        {
+            "startStation": 4123,
+            "endStation": 329,
+            "time": 10.0
+        },
+        {
+            "startStation": 4304,
+            "endStation": 327,
+            "time": 10.0
+        },
+        {
+            "startStation": 1011,
+            "endStation": 325,
+            "time": 10.0
+        },
+        {
+            "startStation": 2634,
+            "endStation": 323,
+            "time": 10.0
+        },
+        {
+            "startStation": 423,
+            "endStation": 321,
+            "time": 10.0
+        },
+        {
+            "startStation": 2535,
+            "endStation": 319,
+            "time": 10.0
+        },
+        {
+            "startStation": 2613,
+            "endStation": 312,
+            "time": 10.0
+        },
+        {
+            "startStation": 9004,
+            "endStation": 311,
+            "time": 10.0
+        },
+        {
+            "startStation": 1949,
+            "endStation": 309,
+            "time": 10.0
+        },
+        {
+            "startStation": 4713,
+            "endStation": 246,
+            "time": 10.0
+        },
+        {
+            "startStation": 2532,
+            "endStation": 243,
+            "time": 10.0
+        },
+        {
+            "startStation": 1252,
+            "endStation": 240,
+            "time": 10.0
+        },
+        {
+            "startStation": 4203,
+            "endStation": 239,
+            "time": 10.0
+        },
+        {
+            "startStation": 2623,
+            "endStation": 238,
+            "time": 10.0
+        },
+        {
+            "startStation": 4113,
+            "endStation": 237,
+            "time": 10.0
+        },
+        {
+            "startStation": 2524,
+            "endStation": 236,
+            "time": 10.0
+        },
+        {
+            "startStation": 1007,
+            "endStation": 234,
+            "time": 10.0
+        },
+        {
+            "startStation": 2746,
+            "endStation": 233,
+            "time": 10.0
+        },
+        {
+            "startStation": 4408,
+            "endStation": 230,
+            "time": 10.0
+        },
+        {
+            "startStation": 433,
+            "endStation": 226,
+            "time": 10.0
+        },
+        {
+            "startStation": 330,
+            "endStation": 223,
+            "time": 10.0
+        },
+        {
+            "startStation": 4307,
+            "endStation": 222,
+            "time": 10.0
+        },
+        {
+            "startStation": 1023,
+            "endStation": 220,
+            "time": 10.0
+        },
+        {
+            "startStation": 4130,
+            "endStation": 218,
+            "time": 10.0
+        },
+        {
+            "startStation": 2815,
+            "endStation": 216,
+            "time": 10.0
+        },
+        {
+            "startStation": 2729,
+            "endStation": 212,
+            "time": 10.0
+        },
+        {
+            "startStation": 2541,
+            "endStation": 208,
+            "time": 10.0
+        },
+        {
+            "startStation": 2636,
+            "endStation": 206,
+            "time": 10.0
+        },
+        {
+            "startStation": 2537,
+            "endStation": 205,
+            "time": 10.0
+        },
+        {
+            "startStation": 2536,
+            "endStation": 204,
+            "time": 10.0
+        },
+        {
+            "startStation": 320,
+            "endStation": 203,
+            "time": 10.0
+        },
+        {
+            "startStation": 2637,
+            "endStation": 159,
+            "time": 10.0
+        },
+        {
+            "startStation": 1014,
+            "endStation": 158,
+            "time": 10.0
+        },
+        {
+            "startStation": 4713,
+            "endStation": 156,
+            "time": 10.0
+        },
+        {
+            "startStation": 421,
+            "endStation": 155,
+            "time": 10.0
+        },
+        {
+            "startStation": 2535,
+            "endStation": 153,
+            "time": 10.0
+        },
+        {
+            "startStation": 201,
+            "endStation": 151,
+            "time": 10.0
+        },
+        {
+            "startStation": 4201,
+            "endStation": 150,
+            "time": 10.0,
+            "comment": "same station end"
+        },
+        {
+            "comment": "8",
+            "startStation": 2827,
+            "endStation": 2826,
+            "time": 1.83
+        },
+        {
+            "startStation": 2826,
+            "endStation": 2825,
+            "time": 1.5
+        },
+        {
+            "startStation": 2825,
+            "endStation": 2824,
+            "time": 1.5
+        },
+        {
+            "startStation": 2824,
+            "endStation": 2823,
+            "time": 1.67
+        },
+        {
+            "startStation": 2823,
+            "endStation": 2822,
+            "time": 2.67
+        },
+        {
+            "startStation": 2822,
+            "endStation": 2828,
+            "time": 2.17
+        },
+        {
+            "startStation": 2828,
+            "endStation": 2821,
+            "time": 2.33
+        },
+        {
+            "startStation": 2821,
+            "endStation": 2820,
+            "time": 1.67
+        },
+        {
+            "startStation": 2820,
+            "endStation": 2819,
+            "time": 1.67
+        },
+        {
+            "startStation": 2819,
+            "endStation": 2818,
+            "time": 1.83
+        },
+        {
+            "startStation": 2818,
+            "endStation": 2817,
+            "time": 1.83
+        },
+        {
+            "startStation": 2817,
+            "endStation": 2816,
+            "time": 1.67
+        },
+        {
+            "startStation": 2816,
+            "endStation": 2815,
+            "time": 2.33
+        },
+        {
+            "startStation": 2815,
+            "endStation": 2814,
+            "time": 1.83
+        },
+        {
+            "startStation": 2814,
+            "endStation": 2813,
+            "time": 2.5
+        },
+        {
+            "startStation": 2813,
+            "endStation": 2812,
+            "time": 1.83
+        },
+        {
+            "startStation": 2812,
+            "endStation": 2811,
+            "time": 2.17
+        },
+        {
+            "startStation": 2811,
+            "endStation": 2810,
+            "time": 3.5
+        },
+        {
+            "startStation": 2810,
+            "endStation": 2809,
+            "time": 4.17
+        },
+        {
+            "startStation": 2809,
+            "endStation": 2808,
+            "time": 2.67
+        },
+        {
+            "startStation": 2808,
+            "endStation": 2807,
+            "time": 2.0
+        },
+        {
+            "startStation": 2807,
+            "endStation": 2806,
+            "time": 2.83
+        },
+        {
+            "startStation": 2806,
+            "endStation": 2805,
+            "time": 3.67,
+            "comment": "8end"
+        },
+        {
+            "comment": "9",
+            "startStation": 4138,
+            "endStation": 4137,
+            "time": 2.75
+        },
+        {
+            "startStation": 4137,
+            "endStation": 4136,
+            "time": 2.08
+        },
+        {
+            "startStation": 4136,
+            "endStation": 4135,
+            "time": 2.58
+        },
+        {
+            "startStation": 4135,
+            "endStation": 4134,
+            "time": 1.83
+        },
+        {
+            "startStation": 4134,
+            "endStation": 4133,
+            "time": 4.08
+        },
+        {
+            "startStation": 4133,
+            "endStation": 4132,
+            "time": 1.92
+        },
+        {
+            "startStation": 4132,
+            "endStation": 4131,
+            "time": 1.92
+        },
+        {
+            "startStation": 4131,
+            "endStation": 4130,
+            "time": 2.92
+        },
+        {
+            "startStation": 4130,
+            "endStation": 4129,
+            "time": 2.75
+        },
+        {
+            "startStation": 4129,
+            "endStation": 4128,
+            "time": 2.08
+        },
+        {
+            "startStation": 4128,
+            "endStation": 4127,
+            "time": 2.08
+        },
+        {
+            "startStation": 4127,
+            "endStation": 4126,
+            "time": 1.92
+        },
+        {
+            "startStation": 4126,
+            "endStation": 4125,
+            "time": 2.08
+        },
+        {
+            "startStation": 4125,
+            "endStation": 4124,
+            "time": 2.17
+        },
+        {
+            "startStation": 4124,
+            "endStation": 4123,
+            "time": 2.25
+        },
+        {
+            "startStation": 4123,
+            "endStation": 4122,
+            "time": 2.08
+        },
+        {
+            "startStation": 4122,
+            "endStation": 4121,
+            "time": 1.83
+        },
+        {
+            "startStation": 4121,
+            "endStation": 4120,
+            "time": 2.08
+        },
+        {
+            "startStation": 4120,
+            "endStation": 4119,
+            "time": 4.92
+        },
+        {
+            "startStation": 4119,
+            "endStation": 4118,
+            "time": 2.08
+        },
+        {
+            "startStation": 4118,
+            "endStation": 4117,
+            "time": 2.08
+        },
+        {
+            "startStation": 4117,
+            "endStation": 4116,
+            "time": 2.33
+        },
+        {
+            "startStation": 4116,
+            "endStation": 4115,
+            "time": 2.0
+        },
+        {
+            "startStation": 4115,
+            "endStation": 4114,
+            "time": 2.17
+        },
+        {
+            "startStation": 4114,
+            "endStation": 4113,
+            "time": 2.42
+        },
+        {
+            "startStation": 4113,
+            "endStation": 4112,
+            "time": 2.17
+        },
+        {
+            "startStation": 4112,
+            "endStation": 4111,
+            "time": 2.33
+        },
+        {
+            "startStation": 4111,
+            "endStation": 4110,
+            "time": 2.0
+        },
+        {
+            "startStation": 4110,
+            "endStation": 4109,
+            "time": 2.17
+        },
+        {
+            "startStation": 4109,
+            "endStation": 4108,
+            "time": 2.17
+        },
+        {
+            "startStation": 4108,
+            "endStation": 4107,
+            "time": 2.17
+        },
+        {
+            "startStation": 4107,
+            "endStation": 4106,
+            "time": 4.58
+        },
+        {
+            "startStation": 4106,
+            "endStation": 4105,
+            "time": 2.75
+        },
+        {
+            "startStation": 4105,
+            "endStation": 4104,
+            "time": 2.33
+        },
+        {
+            "startStation": 4104,
+            "endStation": 4103,
+            "time": 1.67
+        },
+        {
+            "startStation": 4103,
+            "endStation": 4102,
+            "time": 1.92
+        },
+        {
+            "startStation": 4102,
+            "endStation": 4101,
+            "time": 5.17,
+            "comment": "9end"
+        },
+        {
+            "comment": "1",
+            "startStation": 1919,
+            "endStation": 1918,
+            "time": 8.0
+        },
+        {
+            "startStation": 1918,
+            "endStation": 1917,
+            "time": 5.0
+        },
+        {
+            "startStation": 1917,
+            "endStation": 1916,
+            "time": 6.0
+        },
+        {
+            "startStation": 1916,
+            "endStation": 1915,
+            "time": 4.0
+        },
+        {
+            "startStation": 1915,
+            "endStation": 1914,
+            "time": 2.5
+        },
+        {
+            "startStation": 1914,
+            "endStation": 1913,
+            "time": 2.5
+        },
+        {
+            "startStation": 1913,
+            "endStation": 1912,
+            "time": 2.0
+        },
+        {
+            "startStation": 1912,
+            "endStation": 1911,
+            "time": 5.0
+        },
+        {
+            "startStation": 1911,
+            "endStation": 1910,
+            "time": 3.5
+        },
+        {
+            "startStation": 1910,
+            "endStation": 1909,
+            "time": 5.0
+        },
+        {
+            "startStation": 1909,
+            "endStation": 1908,
+            "time": 2.5
+        },
+        {
+            "startStation": 1908,
+            "endStation": 1907,
+            "time": 2.0
+        },
+        {
+            "startStation": 1907,
+            "endStation": 1906,
+            "time": 2.5
+        },
+        {
+            "startStation": 1906,
+            "endStation": 1905,
+            "time": 3.0
+        },
+        {
+            "startStation": 1905,
+            "endStation": 1904,
+            "time": 2.5
+        },
+        {
+            "startStation": 1904,
+            "endStation": 1903,
+            "time": 3.0
+        },
+        {
+            "startStation": 1903,
+            "endStation": 1902,
+            "time": 2.0
+        },
+        {
+            "startStation": 1902,
+            "endStation": 1901,
+            "time": 2.0
+        },
+        {
+            "startStation": 1901,
+            "endStation": 1022,
+            "time": 2.5
+        },
+        {
+            "startStation": 1022,
+            "endStation": 1021,
+            "time": 2.0
+        },
+        {
+            "startStation": 1021,
+            "endStation": 1020,
+            "time": 2.5
+        },
+        {
+            "startStation": 1020,
+            "endStation": 1019,
+            "time": 3.0
+        },
+        {
+            "startStation": 1019,
+            "endStation": 1018,
+            "time": 2.5
+        },
+        {
+            "startStation": 1018,
+            "endStation": 1017,
+            "time": 2.5
+        },
+        {
+            "startStation": 1017,
+            "endStation": 1016,
+            "time": 1.5
+        },
+        {
+            "startStation": 1016,
+            "endStation": 1015,
+            "time": 2.0
+        },
+        {
+            "startStation": 1015,
+            "endStation": 158,
+            "time": 3.0
+        },
+        {
+            "startStation": 158,
+            "endStation": 157,
+            "time": 2.0
+        },
+        {
+            "startStation": 157,
+            "endStation": 156,
+            "time": 2.0
+        },
+        {
+            "startStation": 156,
+            "endStation": 159,
+            "time": 2.0
+        },
+        {
+            "startStation": 159,
+            "endStation": 155,
+            "time": 2.0
+        },
+        {
+            "startStation": 155,
+            "endStation": 154,
+            "time": 2.0
+        },
+        {
+            "startStation": 154,
+            "endStation": 153,
+            "time": 2.0
+        },
+        {
+            "startStation": 153,
+            "endStation": 152,
+            "time": 2.0
+        },
+        {
+            "startStation": 152,
+            "endStation": 151,
+            "time": 2.5
+        },
+        {
+            "startStation": 151,
+            "endStation": 150,
+            "time": 2.5
+        },
+        {
+            "startStation": 150,
+            "endStation": 1002,
+            "time": 3.0
+        },
+        {
+            "startStation": 1002,
+            "endStation": 1003,
+            "time": 2.5
+        },
+        {
+            "startStation": 1003,
+            "endStation": 1004,
+            "time": 3.5
+        },
+        {
+            "startStation": 1004,
+            "endStation": 1005,
+            "time": 2.5
+        },
+        {
+            "startStation": 1005,
+            "endStation": 1032,
+            "time": 1.5
+        },
+        {
+            "startStation": 1032,
+            "endStation": 1006,
+            "time": 2.5
+        },
+        {
+            "startStation": 1006,
+            "endStation": 1007,
+            "time": 2.5
+        },
+        {
+            "startStation": 1007,
+            "endStation": 1701,
+            "time": 3.0
+        },
+        {
+            "startStation": 1701,
+            "endStation": 1813,
+            "time": 2.0
+        },
+        {
+            "startStation": 1813,
+            "endStation": 1801,
+            "time": 2.0
+        },
+        {
+            "startStation": 1801,
+            "endStation": 1802,
+            "time": 2.5
+        },
+        {
+            "startStation": 1802,
+            "endStation": 1821,
+            "time": 3.0
+        },
+        {
+            "startStation": 1821,
+            "endStation": 1803,
+            "time": 2.0
+        },
+        {
+            "startStation": 1803,
+            "endStation": 1814,
+            "time": 2.5
+        },
+        {
+            "startStation": 1814,
+            "endStation": 1804,
+            "time": 2.0
+        },
+        {
+            "startStation": 1804,
+            "endStation": 1822,
+            "time": 2.5
+        },
+        {
+            "startStation": 1822,
+            "endStation": 1805,
+            "time": 2.0
+        },
+        {
+            "startStation": 1805,
+            "endStation": 1815,
+            "time": 2.0
+        },
+        {
+            "startStation": 1815,
+            "endStation": 1806,
+            "time": 2.5
+        },
+        {
+            "startStation": 1806,
+            "endStation": 1807,
+            "time": 2.5
+        },
+        {
+            "startStation": 1807,
+            "endStation": 1808,
+            "time": 2.5
+        },
+        {
+            "startStation": 1808,
+            "endStation": 1816,
+            "time": 2.5
+        },
+        {
+            "startStation": 1816,
+            "endStation": 1809,
+            "time": 2.0
+        },
+        {
+            "startStation": 1809,
+            "endStation": 1823,
+            "time": 2.0
+        },
+        {
+            "startStation": 1823,
+            "endStation": 1810,
+            "time": 2.0
+        },
+        {
+            "startStation": 1810,
+            "endStation": 1817,
+            "time": 2.0
+        },
+        {
+            "startStation": 1817,
+            "endStation": 1811,
+            "time": 2.0
+        },
+        {
+            "startStation": 1811,
+            "endStation": 1812,
+            "time": 4.0
+        },
+        {
+            "startStation": 1701,
+            "endStation": 1702,
+            "time": 5.0
+        },
+        {
+            "startStation": 1702,
+            "endStation": 1714,
+            "time": 2.5
+        },
+        {
+            "startStation": 1714,
+            "endStation": 1703,
+            "time": 2.5
+        },
+        {
+            "startStation": 1703,
+            "endStation": 1704,
+            "time": 3.0
+        },
+        {
+            "startStation": 1704,
+            "endStation": 1705,
+            "time": 2.5
+        },
+        {
+            "startStation": 1705,
+            "endStation": 1706,
+            "time": 3.0
+        },
+        {
+            "startStation": 1706,
+            "endStation": 1707,
+            "time": 3.0
+        },
+        {
+            "startStation": 1707,
+            "endStation": 1708,
+            "time": 2.5
+        },
+        {
+            "startStation": 1708,
+            "endStation": 1709,
+            "time": 3.5
+        },
+        {
+            "startStation": 1709,
+            "endStation": 1729,
+            "time": 2.0
+        },
+        {
+            "startStation": 1729,
+            "endStation": 1710,
+            "time": 2.5
+        },
+        {
+            "startStation": 1710,
+            "endStation": 1711,
+            "time": 3.5
+        },
+        {
+            "startStation": 1711,
+            "endStation": 1712,
+            "time": 3.0
+        },
+        {
+            "startStation": 1712,
+            "endStation": 1713,
+            "time": 3.0
+        },
+        {
+            "startStation": 1713,
+            "endStation": 1715,
+            "time": 3.5
+        },
+        {
+            "startStation": 1715,
+            "endStation": 1716,
+            "time": 4.5
+        },
+        {
+            "startStation": 1716,
+            "endStation": 1717,
+            "time": 3.5
+        },
+        {
+            "startStation": 1717,
+            "endStation": 1718,
+            "time": 3.0
+        },
+        {
+            "startStation": 1718,
+            "endStation": 1719,
+            "time": 4.0
+        },
+        {
+            "startStation": 1719,
+            "endStation": 1720,
+            "time": 3.5
+        },
+        {
+            "startStation": 1720,
+            "endStation": 1721,
+            "time": 3.5
+        },
+        {
+            "startStation": 1721,
+            "endStation": 1722,
+            "time": 3.0
+        },
+        {
+            "startStation": 1722,
+            "endStation": 1723,
+            "time": 4.5
+        },
+        {
+            "startStation": 1723,
+            "endStation": 1724,
+            "time": 4.5
+        },
+        {
+            "startStation": 1724,
+            "endStation": 1725,
+            "time": 7.0
+        },
+        {
+            "startStation": 1725,
+            "endStation": 1726,
+            "time": 4.5
+        },
+        {
+            "startStation": 1726,
+            "endStation": 1727,
+            "time": 5.0
+        },
+        {
+            "startStation": 1727,
+            "endStation": 1728,
+            "time": 4.5
+        },
+        {
+            "startStation": 1728,
+            "endStation": 1401,
+            "time": 2.5
+        },
+        {
+            "startStation": 1401,
+            "endStation": 1402,
+            "time": 2.5
+        },
+        {
+            "startStation": 1402,
+            "endStation": 1403,
+            "time": 2.5
+        },
+        {
+            "startStation": 1403,
+            "endStation": 1404,
+            "time": 3.0
+        },
+        {
+            "startStation": 1404,
+            "endStation": 1405,
+            "time": 3.5
+        },
+        {
+            "startStation": 1405,
+            "endStation": 1407,
+            "time": 4.5
+        },
+        {
+            "startStation": 1407,
+            "endStation": 1408,
+            "time": 5.0
+        },
+        {
+            "startStation": 1750,
+            "endStation": 1703,
+            "time": 5.0,
+            "comment": "1end"
+        },
+        {
+            "comment": "2",
+            "startStation": 200,
+            "endStation": 249,
+            "time": 3.0
+        },
+        {
+            "startStation": 249,
+            "endStation": 248,
+            "time": 3.5
+        },
+        {
+            "startStation": 248,
+            "endStation": 247,
+            "time": 3.0
+        },
+        {
+            "startStation": 247,
+            "endStation": 234,
+            "time": 2.0
+        },
+        {
+            "startStation": 234,
+            "endStation": 235,
+            "time": 2.5
+        },
+        {
+            "startStation": 235,
+            "endStation": 236,
+            "time": 1.5
+        },
+        {
+            "startStation": 236,
+            "endStation": 237,
+            "time": 2.0
+        },
+        {
+            "startStation": 237,
+            "endStation": 238,
+            "time": 3.0
+        },
+        {
+            "startStation": 238,
+            "endStation": 239,
+            "time": 2.5
+        },
+        {
+            "startStation": 239,
+            "endStation": 240,
+            "time": 2.5
+        },
+        {
+            "startStation": 240,
+            "endStation": 241,
+            "time": 1.5
+        },
+        {
+            "startStation": 241,
+            "endStation": 242,
+            "time": 1.5
+        },
+        {
+            "startStation": 242,
+            "endStation": 243,
+            "time": 2.0
+        },
+        {
+            "startStation": 243,
+            "endStation": 201,
+            "time": 2.0
+        },
+        {
+            "startStation": 201,
+            "endStation": 202,
+            "time": 2.0
+        },
+        {
+            "startStation": 202,
+            "endStation": 203,
+            "time": 1.5
+        },
+        {
+            "startStation": 203,
+            "endStation": 204,
+            "time": 1.5
+        },
+        {
+            "startStation": 204,
+            "endStation": 205,
+            "time": 2.5
+        },
+        {
+            "startStation": 205,
+            "endStation": 206,
+            "time": 2.0
+        },
+        {
+            "startStation": 206,
+            "endStation": 207,
+            "time": 1.5
+        },
+        {
+            "startStation": 207,
+            "endStation": 208,
+            "time": 1.5
+        },
+        {
+            "startStation": 208,
+            "endStation": 209,
+            "time": 2.0
+        },
+        {
+            "startStation": 209,
+            "endStation": 210,
+            "time": 2.0
+        },
+        {
+            "startStation": 210,
+            "endStation": 211,
+            "time": 1.5
+        },
+        {
+            "startStation": 211,
+            "endStation": 244,
+            "time": 3.5
+        },
+        {
+            "startStation": 244,
+            "endStation": 245,
+            "time": 2.0
+        },
+        {
+            "startStation": 245,
+            "endStation": 250,
+            "time": 2.0
+        },
+        {
+            "startStation": 250,
+            "endStation": 246,
+            "time": 2.0
+        },
+        {
+            "startStation": 200,
+            "endStation": 249,
+            "time": 3.0
+        },
+        {
+            "startStation": 249,
+            "endStation": 248,
+            "time": 3.5
+        },
+        {
+            "startStation": 248,
+            "endStation": 247,
+            "time": 3.0
+        },
+        {
+            "startStation": 247,
+            "endStation": 234,
+            "time": 2.0
+        },
+        {
+            "startStation": 234,
+            "endStation": 233,
+            "time": 3.0
+        },
+        {
+            "startStation": 233,
+            "endStation": 232,
+            "time": 2.0
+        },
+        {
+            "startStation": 232,
+            "endStation": 231,
+            "time": 2.0
+        },
+        {
+            "startStation": 231,
+            "endStation": 230,
+            "time": 2.5
+        },
+        {
+            "startStation": 230,
+            "endStation": 229,
+            "time": 2.0
+        },
+        {
+            "startStation": 229,
+            "endStation": 228,
+            "time": 1.5
+        },
+        {
+            "startStation": 228,
+            "endStation": 227,
+            "time": 2.0
+        },
+        {
+            "startStation": 227,
+            "endStation": 226,
+            "time": 2.5
+        },
+        {
+            "startStation": 226,
+            "endStation": 225,
+            "time": 3.5
+        },
+        {
+            "startStation": 225,
+            "endStation": 224,
+            "time": 2.5
+        },
+        {
+            "startStation": 224,
+            "endStation": 223,
+            "time": 1.5
+        },
+        {
+            "startStation": 223,
+            "endStation": 222,
+            "time": 2.5
+        },
+        {
+            "startStation": 222,
+            "endStation": 221,
+            "time": 1.5
+        },
+        {
+            "startStation": 221,
+            "endStation": 220,
+            "time": 2.0
+        },
+        {
+            "startStation": 220,
+            "endStation": 219,
+            "time": 2.5
+        },
+        {
+            "startStation": 219,
+            "endStation": 218,
+            "time": 2.0
+        },
+        {
+            "startStation": 218,
+            "endStation": 217,
+            "time": 2.0
+        },
+        {
+            "startStation": 217,
+            "endStation": 216,
+            "time": 2.0
+        },
+        {
+            "startStation": 216,
+            "endStation": 215,
+            "time": 2.0
+        },
+        {
+            "startStation": 215,
+            "endStation": 214,
+            "time": 2.5
+        },
+        {
+            "startStation": 214,
+            "endStation": 213,
+            "time": 1.5
+        },
+        {
+            "startStation": 213,
+            "endStation": 212,
+            "time": 2.5
+        },
+        {
+            "startStation": 212,
+            "endStation": 211,
+            "time": 2.0,
+            "comment": "2end"
+        },
+        {
+            "comment": "3",
+            "startStation": 342,
+            "endStation": 341,
+            "time": 1.67
+        },
+        {
+            "startStation": 341,
+            "endStation": 340,
+            "time": 1.67
+        },
+        {
+            "startStation": 340,
+            "endStation": 339,
+            "time": 2.5
+        },
+        {
+            "startStation": 339,
+            "endStation": 338,
+            "time": 2.5
+        },
+        {
+            "startStation": 338,
+            "endStation": 337,
+            "time": 2.0
+        },
+        {
+            "startStation": 337,
+            "endStation": 336,
+            "time": 2.0
+        },
+        {
+            "startStation": 336,
+            "endStation": 335,
+            "time": 1.5
+        },
+        {
+            "startStation": 335,
+            "endStation": 334,
+            "time": 1.5
+        },
+        {
+            "startStation": 334,
+            "endStation": 333,
+            "time": 2.0
+        },
+        {
+            "startStation": 333,
+            "endStation": 332,
+            "time": 2.5
+        },
+        {
+            "startStation": 332,
+            "endStation": 331,
+            "time": 2.5
+        },
+        {
+            "startStation": 331,
+            "endStation": 330,
+            "time": 2.0
+        },
+        {
+            "startStation": 330,
+            "endStation": 329,
+            "time": 2.5
+        },
+        {
+            "startStation": 329,
+            "endStation": 328,
+            "time": 2.0
+        },
+        {
+            "startStation": 328,
+            "endStation": 327,
+            "time": 2.0
+        },
+        {
+            "startStation": 327,
+            "endStation": 326,
+            "time": 2.5
+        },
+        {
+            "startStation": 326,
+            "endStation": 325,
+            "time": 2.5
+        },
+        {
+            "startStation": 325,
+            "endStation": 324,
+            "time": 1.5
+        },
+        {
+            "startStation": 324,
+            "endStation": 323,
+            "time": 1.5
+        },
+        {
+            "startStation": 323,
+            "endStation": 322,
+            "time": 1.5
+        },
+        {
+            "startStation": 322,
+            "endStation": 321,
+            "time": 2.0
+        },
+        {
+            "startStation": 321,
+            "endStation": 320,
+            "time": 1.5
+        },
+        {
+            "startStation": 320,
+            "endStation": 319,
+            "time": 1.5
+        },
+        {
+            "startStation": 319,
+            "endStation": 318,
+            "time": 2.0
+        },
+        {
+            "startStation": 318,
+            "endStation": 317,
+            "time": 2.0
+        },
+        {
+            "startStation": 317,
+            "endStation": 316,
+            "time": 2.5
+        },
+        {
+            "startStation": 316,
+            "endStation": 315,
+            "time": 2.0
+        },
+        {
+            "startStation": 315,
+            "endStation": 314,
+            "time": 2.0
+        },
+        {
+            "startStation": 314,
+            "endStation": 313,
+            "time": 2.5
+        },
+        {
+            "startStation": 313,
+            "endStation": 312,
+            "time": 2.0
+        },
+        {
+            "startStation": 312,
+            "endStation": 311,
+            "time": 2.0
+        },
+        {
+            "startStation": 311,
+            "endStation": 310,
+            "time": 2.5
+        },
+        {
+            "startStation": 310,
+            "endStation": 309,
+            "time": 3.5
+        },
+        {
+            "startStation": 309,
+            "endStation": 1950,
+            "time": 3.0
+        },
+        {
+            "startStation": 1950,
+            "endStation": 1948,
+            "time": 2.5
+        },
+        {
+            "startStation": 1948,
+            "endStation": 1951,
+            "time": 3.0
+        },
+        {
+            "startStation": 1951,
+            "endStation": 1952,
+            "time": 3.5
+        },
+        {
+            "startStation": 1952,
+            "endStation": 1953,
+            "time": 3.0
+        },
+        {
+            "startStation": 1953,
+            "endStation": 1954,
+            "time": 3.5
+        },
+        {
+            "startStation": 1954,
+            "endStation": 1955,
+            "time": 2.5
+        },
+        {
+            "startStation": 1955,
+            "endStation": 1956,
+            "time": 2.0
+        },
+        {
+            "startStation": 1956,
+            "endStation": 1957,
+            "time": 2.5
+        },
+        {
+            "startStation": 1957,
+            "endStation": 1958,
+            "time": 2.5,
+            "comment": "3end"
+        },
+        {
+            "comment": "4",
+            "startStation": 1762,
+            "endStation": 1761,
+            "time": 3.0
+        },
+        {
+            "startStation": 1761,
+            "endStation": 1760,
+            "time": 3.0
+        },
+        {
+            "startStation": 1760,
+            "endStation": 1759,
+            "time": 3.0
+        },
+        {
+            "startStation": 1759,
+            "endStation": 1758,
+            "time": 3.5
+        },
+        {
+            "startStation": 1758,
+            "endStation": 1757,
+            "time": 2.5
+        },
+        {
+            "startStation": 1757,
+            "endStation": 1756,
+            "time": 2.0
+        },
+        {
+            "startStation": 1756,
+            "endStation": 1755,
+            "time": 2.5
+        },
+        {
+            "startStation": 1755,
+            "endStation": 1754,
+            "time": 2.0
+        },
+        {
+            "startStation": 1754,
+            "endStation": 1753,
+            "time": 3.5
+        },
+        {
+            "startStation": 1753,
+            "endStation": 1752,
+            "time": 2.5
+        },
+        {
+            "startStation": 1752,
+            "endStation": 1763,
+            "time": 3.5
+        },
+        {
+            "startStation": 1763,
+            "endStation": 1751,
+            "time": 2.0
+        },
+        {
+            "startStation": 1751,
+            "endStation": 1458,
+            "time": 4.5
+        },
+        {
+            "startStation": 1458,
+            "endStation": 1457,
+            "time": 3.5
+        },
+        {
+            "startStation": 1457,
+            "endStation": 1456,
+            "time": 2.0
+        },
+        {
+            "startStation": 1456,
+            "endStation": 1455,
+            "time": 2.5
+        },
+        {
+            "startStation": 1455,
+            "endStation": 1454,
+            "time": 3.5
+        },
+        {
+            "startStation": 1454,
+            "endStation": 1453,
+            "time": 2.0
+        },
+        {
+            "startStation": 1453,
+            "endStation": 1452,
+            "time": 2.0
+        },
+        {
+            "startStation": 1452,
+            "endStation": 1451,
+            "time": 2.0
+        },
+        {
+            "startStation": 1451,
+            "endStation": 1450,
+            "time": 2.0
+        },
+        {
+            "startStation": 1450,
+            "endStation": 434,
+            "time": 3.0
+        },
+        {
+            "startStation": 434,
+            "endStation": 433,
+            "time": 2.5
+        },
+        {
+            "startStation": 433,
+            "endStation": 432,
+            "time": 2.0
+        },
+        {
+            "startStation": 432,
+            "endStation": 431,
+            "time": 3.0
+        },
+        {
+            "startStation": 431,
+            "endStation": 430,
+            "time": 3.5
+        },
+        {
+            "startStation": 430,
+            "endStation": 429,
+            "time": 2.5
+        },
+        {
+            "startStation": 429,
+            "endStation": 428,
+            "time": 1.5
+        },
+        {
+            "startStation": 428,
+            "endStation": 427,
+            "time": 2.0
+        },
+        {
+            "startStation": 427,
+            "endStation": 426,
+            "time": 2.0
+        },
+        {
+            "startStation": 426,
+            "endStation": 425,
+            "time": 2.0
+        },
+        {
+            "startStation": 425,
+            "endStation": 424,
+            "time": 1.5
+        },
+        {
+            "startStation": 424,
+            "endStation": 423,
+            "time": 1.5
+        },
+        {
+            "startStation": 423,
+            "endStation": 422,
+            "time": 2.5
+        },
+        {
+            "startStation": 422,
+            "endStation": 421,
+            "time": 1.5
+        },
+        {
+            "startStation": 421,
+            "endStation": 420,
+            "time": 2.5
+        },
+        {
+            "startStation": 420,
+            "endStation": 419,
+            "time": 2.0
+        },
+        {
+            "startStation": 419,
+            "endStation": 418,
+            "time": 2.0
+        },
+        {
+            "startStation": 418,
+            "endStation": 417,
+            "time": 2.5
+        },
+        {
+            "startStation": 417,
+            "endStation": 416,
+            "time": 2.5
+        },
+        {
+            "startStation": 416,
+            "endStation": 415,
+            "time": 2.5
+        },
+        {
+            "startStation": 415,
+            "endStation": 414,
+            "time": 2.0
+        },
+        {
+            "startStation": 414,
+            "endStation": 413,
+            "time": 2.5
+        },
+        {
+            "startStation": 413,
+            "endStation": 412,
+            "time": 2.5
+        },
+        {
+            "startStation": 412,
+            "endStation": 411,
+            "time": 2.0
+        },
+        {
+            "startStation": 411,
+            "endStation": 410,
+            "time": 2.0
+        },
+        {
+            "startStation": 410,
+            "endStation": 409,
+            "time": 3.0
+        },
+        {
+            "startStation": 409,
+            "endStation": 408,
+            "time": 5.5
+        },
+        {
+            "startStation": 408,
+            "endStation": 406,
+            "time": 7.0
+        },
+        {
+            "startStation": 406,
+            "endStation": 405,
+            "time": 3.0,
+            "comment": "4end"
+        },
+        {
+            "comment": "5",
+            "startStation": 2511,
+            "endStation": 2512,
+            "time": 2.0
+        },
+        {
+            "startStation": 2512,
+            "endStation": 2513,
+            "time": 2.17
+        },
+        {
+            "startStation": 2513,
+            "endStation": 2514,
+            "time": 2.67
+        },
+        {
+            "startStation": 2514,
+            "endStation": 2515,
+            "time": 1.83
+        },
+        {
+            "startStation": 2515,
+            "endStation": 2516,
+            "time": 2.17
+        },
+        {
+            "startStation": 2516,
+            "endStation": 2517,
+            "time": 2.0
+        },
+        {
+            "startStation": 2517,
+            "endStation": 2518,
+            "time": 2.0
+        },
+        {
+            "startStation": 2518,
+            "endStation": 2519,
+            "time": 2.0
+        },
+        {
+            "startStation": 2519,
+            "endStation": 2520,
+            "time": 2.17
+        },
+        {
+            "startStation": 2520,
+            "endStation": 2521,
+            "time": 1.67
+        },
+        {
+            "startStation": 2521,
+            "endStation": 2522,
+            "time": 1.83
+        },
+        {
+            "startStation": 2522,
+            "endStation": 2523,
+            "time": 1.67
+        },
+        {
+            "startStation": 2523,
+            "endStation": 2524,
+            "time": 1.67
+        },
+        {
+            "startStation": 2524,
+            "endStation": 2525,
+            "time": 1.5
+        },
+        {
+            "startStation": 2525,
+            "endStation": 2526,
+            "time": 2.0
+        },
+        {
+            "startStation": 2526,
+            "endStation": 2527,
+            "time": 2.0
+        },
+        {
+            "startStation": 2527,
+            "endStation": 2528,
+            "time": 1.67
+        },
+        {
+            "startStation": 2528,
+            "endStation": 2529,
+            "time": 2.5
+        },
+        {
+            "startStation": 2529,
+            "endStation": 2530,
+            "time": 1.83
+        },
+        {
+            "startStation": 2530,
+            "endStation": 2531,
+            "time": 1.67
+        },
+        {
+            "startStation": 2531,
+            "endStation": 2532,
+            "time": 1.83
+        },
+        {
+            "startStation": 2532,
+            "endStation": 2533,
+            "time": 1.5
+        },
+        {
+            "startStation": 2533,
+            "endStation": 2534,
+            "time": 2.0
+        },
+        {
+            "startStation": 2534,
+            "endStation": 2535,
+            "time": 2.17
+        },
+        {
+            "startStation": 2535,
+            "endStation": 2536,
+            "time": 2.17
+        },
+        {
+            "startStation": 2536,
+            "endStation": 2537,
+            "time": 2.17
+        },
+        {
+            "startStation": 2537,
+            "endStation": 2538,
+            "time": 1.83
+        },
+        {
+            "startStation": 2538,
+            "endStation": 2539,
+            "time": 1.83
+        },
+        {
+            "startStation": 2539,
+            "endStation": 2540,
+            "time": 1.67
+        },
+        {
+            "startStation": 2540,
+            "endStation": 2541,
+            "time": 1.67
+        },
+        {
+            "startStation": 2541,
+            "endStation": 2542,
+            "time": 1.33
+        },
+        {
+            "startStation": 2542,
+            "endStation": 2543,
+            "time": 2.17
+        },
+        {
+            "startStation": 2543,
+            "endStation": 2544,
+            "time": 2.17
+        },
+        {
+            "startStation": 2544,
+            "endStation": 2545,
+            "time": 2.33
+        },
+        {
+            "startStation": 2545,
+            "endStation": 2546,
+            "time": 1.83
+        },
+        {
+            "startStation": 2546,
+            "endStation": 2547,
+            "time": 2.17
+        },
+        {
+            "startStation": 2547,
+            "endStation": 2548,
+            "time": 2.67
+        },
+        {
+            "startStation": 2548,
+            "endStation": 2549,
+            "time": 1.83
+        },
+        {
+            "startStation": 2549,
+            "endStation": 2555,
+            "time": 2.33
+        },
+        {
+            "startStation": 2555,
+            "endStation": 2556,
+            "time": 2.17
+        },
+        {
+            "startStation": 2556,
+            "endStation": 2557,
+            "time": 1.83
+        },
+        {
+            "startStation": 2557,
+            "endStation": 2558,
+            "time": 1.83
+        },
+        {
+            "startStation": 2558,
+            "endStation": 2559,
+            "time": 1.67
+        },
+        {
+            "startStation": 2559,
+            "endStation": 2560,
+            "time": 1.83
+        },
+        {
+            "startStation": 2560,
+            "endStation": 2561,
+            "time": 2.0
+        },
+        {
+            "startStation": 2549,
+            "endStation": 2550,
+            "time": 2.0
+        },
+        {
+            "startStation": 2550,
+            "endStation": 2551,
+            "time": 1.67
+        },
+        {
+            "startStation": 2551,
+            "endStation": 2552,
+            "time": 1.67
+        },
+        {
+            "startStation": 2552,
+            "endStation": 2553,
+            "time": 2.17
+        },
+        {
+            "startStation": 2553,
+            "endStation": 2554,
+            "time": 2.17
+        },
+        {
+            "startStation": 2554,
+            "endStation": 2562,
+            "time": 2.33
+        },
+        {
+            "startStation": 2562,
+            "endStation": 2563,
+            "time": 2.33
+        },
+        {
+            "startStation": 2563,
+            "endStation": 2564,
+            "time": 3.0
+        },
+        {
+            "startStation": 2564,
+            "endStation": 2565,
+            "time": 2.33
+        },
+        {
+            "startStation": 2565,
+            "endStation": 2566,
+            "time": 3.0,
+            "comment": "5end"
+        },
+        {
+            "comment": "6",
+            "startStation": 2611,
+            "endStation": 2617,
+            "time": 1.67
+        },
+        {
+            "startStation": 2617,
+            "endStation": 2618,
+            "time": 1.83
+        },
+        {
+            "startStation": 2618,
+            "endStation": 2619,
+            "time": 2.0
+        },
+        {
+            "startStation": 2619,
+            "endStation": 2620,
+            "time": 1.83
+        },
+        {
+            "startStation": 2620,
+            "endStation": 2621,
+            "time": 1.67
+        },
+        {
+            "startStation": 2621,
+            "endStation": 2622,
+            "time": 1.83
+        },
+        {
+            "startStation": 2622,
+            "endStation": 2623,
+            "time": 2.0
+        },
+        {
+            "startStation": 2623,
+            "endStation": 2624,
+            "time": 1.5
+        },
+        {
+            "startStation": 2624,
+            "endStation": 2625,
+            "time": 1.67
+        },
+        {
+            "startStation": 2625,
+            "endStation": 2626,
+            "time": 2.0
+        },
+        {
+            "startStation": 2626,
+            "endStation": 2627,
+            "time": 2.0
+        },
+        {
+            "startStation": 2627,
+            "endStation": 2628,
+            "time": 1.83
+        },
+        {
+            "startStation": 2628,
+            "endStation": 2629,
+            "time": 2.0
+        },
+        {
+            "startStation": 2629,
+            "endStation": 2630,
+            "time": 2.0
+        },
+        {
+            "startStation": 2630,
+            "endStation": 2631,
+            "time": 1.67
+        },
+        {
+            "startStation": 2631,
+            "endStation": 2632,
+            "time": 1.83
+        },
+        {
+            "startStation": 2632,
+            "endStation": 2633,
+            "time": 1.83
+        },
+        {
+            "startStation": 2633,
+            "endStation": 2634,
+            "time": 1.83
+        },
+        {
+            "startStation": 2634,
+            "endStation": 2635,
+            "time": 1.83
+        },
+        {
+            "startStation": 2635,
+            "endStation": 2636,
+            "time": 1.67
+        },
+        {
+            "startStation": 2636,
+            "endStation": 2637,
+            "time": 1.5
+        },
+        {
+            "startStation": 2637,
+            "endStation": 2638,
+            "time": 1.67
+        },
+        {
+            "startStation": 2638,
+            "endStation": 2639,
+            "time": 1.67
+        },
+        {
+            "startStation": 2639,
+            "endStation": 2640,
+            "time": 1.67
+        },
+        {
+            "startStation": 2640,
+            "endStation": 2641,
+            "time": 1.67
+        },
+        {
+            "startStation": 2641,
+            "endStation": 2642,
+            "time": 2.17
+        },
+        {
+            "startStation": 2642,
+            "endStation": 2643,
+            "time": 1.5
+        },
+        {
+            "startStation": 2643,
+            "endStation": 2644,
+            "time": 1.67
+        },
+        {
+            "startStation": 2644,
+            "endStation": 2645,
+            "time": 2.17
+        },
+        {
+            "startStation": 2645,
+            "endStation": 2646,
+            "time": 1.67
+        },
+        {
+            "startStation": 2646,
+            "endStation": 2647,
+            "time": 1.83
+        },
+        {
+            "startStation": 2647,
+            "endStation": 2648,
+            "time": 1.83
+        },
+        {
+            "startStation": 2648,
+            "endStation": 2649,
+            "time": 5.5
+        },
+        {
+            "startStation": 2614,
+            "endStation": 2615,
+            "time": 2.83
+        },
+        {
+            "startStation": 2615,
+            "endStation": 2616,
+            "time": 1.83
+        },
+        {
+            "startStation": 2616,
+            "endStation": 2611,
+            "time": 2.5
+        },
+        {
+            "startStation": 2611,
+            "endStation": 2612,
+            "time": 2.0
+        },
+        {
+            "startStation": 2612,
+            "endStation": 2613,
+            "time": 2.0
+        },
+        {
+            "startStation": 2613,
+            "endStation": 2614,
+            "time": 1.83,
+            "comment": "6end"
+        },
+        {
+            "comment": "bundang",
+            "startStation": 1891,
+            "endStation": 1890,
+            "time": 2.0
+        },
+        {
+            "startStation": 1890,
+            "endStation": 1889,
+            "time": 2.5
+        },
+        {
+            "startStation": 1889,
+            "endStation": 1888,
+            "time": 2.5
+        },
+        {
+            "startStation": 1888,
+            "endStation": 1886,
+            "time": 2.5
+        },
+        {
+            "startStation": 1886,
+            "endStation": 1885,
+            "time": 3.5
+        },
+        {
+            "startStation": 1885,
+            "endStation": 1884,
+            "time": 2.0
+        },
+        {
+            "startStation": 1884,
+            "endStation": 1883,
+            "time": 2.0
+        },
+        {
+            "startStation": 1883,
+            "endStation": 1882,
+            "time": 2.0
+        },
+        {
+            "startStation": 1882,
+            "endStation": 1881,
+            "time": 2.0
+        },
+        {
+            "startStation": 1881,
+            "endStation": 1880,
+            "time": 2.0
+        },
+        {
+            "startStation": 1880,
+            "endStation": 1879,
+            "time": 2.0
+        },
+        {
+            "startStation": 1879,
+            "endStation": 1878,
+            "time": 2.5
+        },
+        {
+            "startStation": 1878,
+            "endStation": 1800,
+            "time": 3.0
+        },
+        {
+            "startStation": 1800,
+            "endStation": 1836,
+            "time": 3.0
+        },
+        {
+            "startStation": 1836,
+            "endStation": 1835,
+            "time": 3.0
+        },
+        {
+            "startStation": 1835,
+            "endStation": 1834,
+            "time": 3.0
+        },
+        {
+            "startStation": 1834,
+            "endStation": 1833,
+            "time": 2.5
+        },
+        {
+            "startStation": 1833,
+            "endStation": 1832,
+            "time": 2.5
+        },
+        {
+            "startStation": 1832,
+            "endStation": 1831,
+            "time": 2.0
+        },
+        {
+            "startStation": 1831,
+            "endStation": 1830,
+            "time": 2.5
+        },
+        {
+            "startStation": 1830,
+            "endStation": 1877,
+            "time": 3.5
+        },
+        {
+            "startStation": 1877,
+            "endStation": 1876,
+            "time": 5.0
+        },
+        {
+            "startStation": 1876,
+            "endStation": 1875,
+            "time": 3.0
+        },
+        {
+            "startStation": 1875,
+            "endStation": 1874,
+            "time": 4.5
+        },
+        {
+            "startStation": 1874,
+            "endStation": 1873,
+            "time": 2.5
+        },
+        {
+            "startStation": 1873,
+            "endStation": 1846,
+            "time": 4.0
+        },
+        {
+            "startStation": 1846,
+            "endStation": 1872,
+            "time": 2.5
+        },
+        {
+            "startStation": 1872,
+            "endStation": 1871,
+            "time": 2.5
+        },
+        {
+            "startStation": 1871,
+            "endStation": 1870,
+            "time": 3.0
+        },
+        {
+            "startStation": 1870,
+            "endStation": 1869,
+            "time": 2.5
+        },
+        {
+            "startStation": 1869,
+            "endStation": 1868,
+            "time": 2.5
+        },
+        {
+            "startStation": 1868,
+            "endStation": 1867,
+            "time": 2.0
+        },
+        {
+            "startStation": 1867,
+            "endStation": 1866,
+            "time": 3.5
+        },
+        {
+            "startStation": 1866,
+            "endStation": 1865,
+            "time": 2.5
+        },
+        {
+            "startStation": 1865,
+            "endStation": 1864,
+            "time": 2.5
+        },
+        {
+            "startStation": 1864,
+            "endStation": 1863,
+            "time": 2.5
+        },
+        {
+            "startStation": 1863,
+            "endStation": 1861,
+            "time": 2.5
+        },
+        {
+            "startStation": 1861,
+            "endStation": 1862,
+            "time": 3.0
+        },
+        {
+            "startStation": 1862,
+            "endStation": 1859,
+            "time": 3.5
+        },
+        {
+            "startStation": 1859,
+            "endStation": 1858,
+            "time": 2.0
+        },
+        {
+            "startStation": 1858,
+            "endStation": 1857,
+            "time": 2.5
+        },
+        {
+            "startStation": 1857,
+            "endStation": 1856,
+            "time": 2.5
+        },
+        {
+            "startStation": 1856,
+            "endStation": 1855,
+            "time": 2.0
+        },
+        {
+            "startStation": 1855,
+            "endStation": 1860,
+            "time": 2.0
+        },
+        {
+            "startStation": 1860,
+            "endStation": 1854,
+            "time": 2.5
+        },
+        {
+            "startStation": 1854,
+            "endStation": 1853,
+            "time": 3.0
+        },
+        {
+            "startStation": 1853,
+            "endStation": 1852,
+            "time": 2.0
+        },
+        {
+            "startStation": 1852,
+            "endStation": 1851,
+            "time": 2.0
+        },
+        {
+            "startStation": 1851,
+            "endStation": 1031,
+            "time": 3.0
+        },
+        {
+            "startStation": 1031,
+            "endStation": 1030,
+            "time": 4.0
+        },
+        {
+            "startStation": 1030,
+            "endStation": 1028,
+            "time": 4.0
+        },
+        {
+            "startStation": 1028,
+            "endStation": 1027,
+            "time": 1.5
+        },
+        {
+            "startStation": 1027,
+            "endStation": 1026,
+            "time": 2.0
+        },
+        {
+            "startStation": 1026,
+            "endStation": 1025,
+            "time": 1.5
+        },
+        {
+            "startStation": 1025,
+            "endStation": 1024,
+            "time": 1.5
+        },
+        {
+            "startStation": 1024,
+            "endStation": 1023,
+            "time": 2.0
+        },
+        {
+            "startStation": 1023,
+            "endStation": 1850,
+            "time": 2.0
+        },
+        {
+            "startStation": 1850,
+            "endStation": 1849,
+            "time": 1.5
+        },
+        {
+            "startStation": 1849,
+            "endStation": 1848,
+            "time": 2.5
+        },
+        {
+            "startStation": 1848,
+            "endStation": 1847,
+            "time": 2.0,
+            "comment": "bundang end"
+        },
+        {
+            "comment": "kyung",
+            "startStation": 1251,
+            "endStation": 1252,
+            "time": 6.0
+        },
+        {
+            "startStation": 1252,
+            "endStation": 1265,
+            "time": 3.5
+        },
+        {
+            "startStation": 1265,
+            "endStation": 1266,
+            "time": 2.5
+        },
+        {
+            "startStation": 1266,
+            "endStation": 1267,
+            "time": 2.0
+        },
+        {
+            "startStation": 1267,
+            "endStation": 1268,
+            "time": 3.5
+        },
+        {
+            "startStation": 1268,
+            "endStation": 1269,
+            "time": 3.0
+        },
+        {
+            "startStation": 1269,
+            "endStation": 1270,
+            "time": 2.0
+        },
+        {
+            "startStation": 1270,
+            "endStation": 1271,
+            "time": 3.0
+        },
+        {
+            "startStation": 1271,
+            "endStation": 300,
+            "time": 3.5
+        },
+        {
+            "startStation": 300,
+            "endStation": 1272,
+            "time": 3.0
+        },
+        {
+            "startStation": 1272,
+            "endStation": 1273,
+            "time": 2.5
+        },
+        {
+            "startStation": 1273,
+            "endStation": 1274,
+            "time": 2.5
+        },
+        {
+            "startStation": 1274,
+            "endStation": 1275,
+            "time": 2.5
+        },
+        {
+            "startStation": 1275,
+            "endStation": 1276,
+            "time": 2.5
+        },
+        {
+            "startStation": 1276,
+            "endStation": 1277,
+            "time": 2.5
+        },
+        {
+            "startStation": 1277,
+            "endStation": 1278,
+            "time": 2.0
+        },
+        {
+            "startStation": 1278,
+            "endStation": 1279,
+            "time": 3.5
+        },
+        {
+            "startStation": 1279,
+            "endStation": 1280,
+            "time": 2.5
+        },
+        {
+            "startStation": 1280,
+            "endStation": 1282,
+            "time": 4.0
+        },
+        {
+            "startStation": 1282,
+            "endStation": 1283,
+            "time": 3.0
+        },
+        {
+            "startStation": 1283,
+            "endStation": 1284,
+            "time": 4.0
+        },
+        {
+            "startStation": 1284,
+            "endStation": 1286,
+            "time": 6.5
+        },
+        {
+            "startStation": 1286,
+            "endStation": 1285,
+            "time": 4.5
+        },
+        {
+            "startStation": 1264,
+            "endStation": 1265,
+            "time": 2.5,
+            "comment": "kyung end"
+        },
+        {
+            "comment": "ujb",
+            "startStation": 4601,
+            "endStation": 4602,
+            "time": 1.9
+        },
+        {
+            "startStation": 4602,
+            "endStation": 4603,
+            "time": 1.48
+        },
+        {
+            "startStation": 4603,
+            "endStation": 4604,
+            "time": 1.5
+        },
+        {
+            "startStation": 4604,
+            "endStation": 4605,
+            "time": 1.55
+        },
+        {
+            "startStation": 4605,
+            "endStation": 4606,
+            "time": 1.63
+        },
+        {
+            "startStation": 4606,
+            "endStation": 4607,
+            "time": 1.38
+        },
+        {
+            "startStation": 4607,
+            "endStation": 4608,
+            "time": 1.58
+        },
+        {
+            "startStation": 4608,
+            "endStation": 4609,
+            "time": 1.43
+        },
+        {
+            "startStation": 4609,
+            "endStation": 4610,
+            "time": 1.27
+        },
+        {
+            "startStation": 4610,
+            "endStation": 4611,
+            "time": 1.25
+        },
+        {
+            "startStation": 4611,
+            "endStation": 4612,
+            "time": 1.2
+        },
+        {
+            "startStation": 4612,
+            "endStation": 4613,
+            "time": 1.4
+        },
+        {
+            "startStation": 4613,
+            "endStation": 4614,
+            "time": 1.48
+        },
+        {
+            "startStation": 4614,
+            "endStation": 4615,
+            "time": 1.27,
+            "comment": "ujb end"
+        },
+        {
+            "comment": "ui",
+            "startStation": 4701,
+            "endStation": 4702,
+            "time": 1.67
+        },
+        {
+            "startStation": 4702,
+            "endStation": 4703,
+            "time": 1.58
+        },
+        {
+            "startStation": 4703,
+            "endStation": 4704,
+            "time": 1.77
+        },
+        {
+            "startStation": 4704,
+            "endStation": 4705,
+            "time": 1.72
+        },
+        {
+            "startStation": 4705,
+            "endStation": 4706,
+            "time": 1.6800000000000002
+        },
+        {
+            "startStation": 4706,
+            "endStation": 4707,
+            "time": 2.15
+        },
+        {
+            "startStation": 4707,
+            "endStation": 4708,
+            "time": 1.8199999999999998
+        },
+        {
+            "startStation": 4708,
+            "endStation": 4709,
+            "time": 2.5
+        },
+        {
+            "startStation": 4709,
+            "endStation": 4710,
+            "time": 2.23
+        },
+        {
+            "startStation": 4710,
+            "endStation": 4711,
+            "time": 2.2
+        },
+        {
+            "startStation": 4711,
+            "endStation": 4712,
+            "time": 2.08
+        },
+        {
+            "startStation": 4712,
+            "endStation": 4713,
+            "time": 2.62,
+            "comment": "ui end"
+        },
+        {
+            "comment": "gyungchun",
+            "startStation": 1306,
+            "endStation": 1307,
+            "time": 3.5
+        },
+        {
+            "startStation": 1307,
+            "endStation": 1308,
+            "time": 3.0
+        },
+        {
+            "startStation": 1308,
+            "endStation": 1309,
+            "time": 2.0
+        },
+        {
+            "startStation": 1309,
+            "endStation": 1310,
+            "time": 2.5
+        },
+        {
+            "startStation": 1310,
+            "endStation": 1311,
+            "time": 3.0
+        },
+        {
+            "startStation": 1311,
+            "endStation": 1312,
+            "time": 3.5
+        },
+        {
+            "startStation": 1312,
+            "endStation": 1313,
+            "time": 2.0
+        },
+        {
+            "startStation": 1313,
+            "endStation": 1314,
+            "time": 2.5
+        },
+        {
+            "startStation": 1314,
+            "endStation": 1315,
+            "time": 3.5
+        },
+        {
+            "startStation": 1315,
+            "endStation": 1316,
+            "time": 3.5
+        },
+        {
+            "startStation": 1316,
+            "endStation": 1317,
+            "time": 4.0
+        },
+        {
+            "startStation": 1317,
+            "endStation": 1318,
+            "time": 4.0
+        },
+        {
+            "startStation": 1318,
+            "endStation": 1319,
+            "time": 2.5
+        },
+        {
+            "startStation": 1319,
+            "endStation": 1320,
+            "time": 6.0
+        },
+        {
+            "startStation": 1320,
+            "endStation": 1321,
+            "time": 6.5
+        },
+        {
+            "startStation": 1321,
+            "endStation": 1322,
+            "time": 4.5
+        },
+        {
+            "startStation": 1322,
+            "endStation": 1323,
+            "time": 6.0
+        },
+        {
+            "startStation": 1323,
+            "endStation": 1324,
+            "time": 4.5
+        },
+        {
+            "startStation": 1324,
+            "endStation": 1325,
+            "time": 3.5
+        },
+        {
+            "startStation": 1325,
+            "endStation": 1326,
+            "time": 5.0
+        },
+        {
+            "startStation": 1326,
+            "endStation": 1327,
+            "time": 6.0
+        },
+        {
+            "startStation": 1327,
+            "endStation": 1328,
+            "time": 5.5
+        },
+        {
+            "startStation": 1328,
+            "endStation": 1329,
+            "time": 3.5,
+            "comment": "gyungchun end"
+        },
+        {
+            "comment": "kyung",
+            "startStation": 1264,
+            "endStation": 1263,
+            "time": 2.0
+        },
+        {
+            "startStation": 1263,
+            "endStation": 1262,
+            "time": 3.0
+        },
+        {
+            "startStation": 1262,
+            "endStation": 1261,
+            "time": 2.5
+        },
+        {
+            "startStation": 1261,
+            "endStation": 10081,
+            "time": 3.5
+        },
+        {
+            "startStation": 10081,
+            "endStation": 1008,
+            "time": 4.0
+        },
+        {
+            "startStation": 1008,
+            "endStation": 1009,
+            "time": 2.5
+        },
+        {
+            "startStation": 1009,
+            "endStation": 1010,
+            "time": 3.0
+        },
+        {
+            "startStation": 1010,
+            "endStation": 1011,
+            "time": 2.5
+        },
+        {
+            "startStation": 1011,
+            "endStation": 1012,
+            "time": 2.5
+        },
+        {
+            "startStation": 1012,
+            "endStation": 1013,
+            "time": 2.5
+        },
+        {
+            "startStation": 1013,
+            "endStation": 1014,
+            "time": 4.5
+        },
+        {
+            "startStation": 1014,
+            "endStation": 12011,
+            "time": 3.5
+        },
+        {
+            "startStation": 12011,
+            "endStation": 1201,
+            "time": 3.0
+        },
+        {
+            "startStation": 1201,
+            "endStation": 1202,
+            "time": 2.0
+        },
+        {
+            "startStation": 1202,
+            "endStation": 1203,
+            "time": 2.0
+        },
+        {
+            "startStation": 1203,
+            "endStation": 1204,
+            "time": 3.0
+        },
+        {
+            "startStation": 1204,
+            "endStation": 1205,
+            "time": 4.0
+        },
+        {
+            "startStation": 1205,
+            "endStation": 1206,
+            "time": 3.0
+        },
+        {
+            "startStation": 1206,
+            "endStation": 1207,
+            "time": 4.0
+        },
+        {
+            "startStation": 1207,
+            "endStation": 1208,
+            "time": 3.5
+        },
+        {
+            "startStation": 1208,
+            "endStation": 1209,
+            "time": 2.5
+        },
+        {
+            "startStation": 1209,
+            "endStation": 1210,
+            "time": 4.5
+        },
+        {
+            "startStation": 1210,
+            "endStation": 1211,
+            "time": 5.5
+        },
+        {
+            "startStation": 1211,
+            "endStation": 1212,
+            "time": 2.5
+        },
+        {
+            "startStation": 1212,
+            "endStation": 1213,
+            "time": 4.5
+        },
+        {
+            "startStation": 1213,
+            "endStation": 1214,
+            "time": 3.5
+        },
+        {
+            "startStation": 1214,
+            "endStation": 1215,
+            "time": 4.0
+        },
+        {
+            "startStation": 1215,
+            "endStation": 1216,
+            "time": 3.5
+        },
+        {
+            "startStation": 1216,
+            "endStation": 1217,
+            "time": 3.0
+        },
+        {
+            "startStation": 1217,
+            "endStation": 1218,
+            "time": 6.0
+        },
+        {
+            "startStation": 1218,
+            "endStation": 1219,
+            "time": 5.0
+        },
+        {
+            "startStation": 1219,
+            "endStation": 1220,
+            "time": 4.0,
+            "comment": "kyung end"
+        },
+        {
+            "comment": "incheon2",
+            "startStation": 3201,
+            "endStation": 3202,
+            "time": 2.03
+        },
+        {
+            "startStation": 3202,
+            "endStation": 3203,
+            "time": 2.62
+        },
+        {
+            "startStation": 3203,
+            "endStation": 3204,
+            "time": 2.13
+        },
+        {
+            "startStation": 3204,
+            "endStation": 3205,
+            "time": 1.78
+        },
+        {
+            "startStation": 3205,
+            "endStation": 3206,
+            "time": 1.62
+        },
+        {
+            "startStation": 3206,
+            "endStation": 3207,
+            "time": 2.52
+        },
+        {
+            "startStation": 3207,
+            "endStation": 3208,
+            "time": 1.85
+        },
+        {
+            "startStation": 3208,
+            "endStation": 3209,
+            "time": 2.4
+        },
+        {
+            "startStation": 3209,
+            "endStation": 3210,
+            "time": 1.62
+        },
+        {
+            "startStation": 3210,
+            "endStation": 3211,
+            "time": 2.77
+        },
+        {
+            "startStation": 3211,
+            "endStation": 3212,
+            "time": 2.07
+        },
+        {
+            "startStation": 3212,
+            "endStation": 3213,
+            "time": 1.97
+        },
+        {
+            "startStation": 3213,
+            "endStation": 3214,
+            "time": 1.62
+        },
+        {
+            "startStation": 3214,
+            "endStation": 3215,
+            "time": 1.9
+        },
+        {
+            "startStation": 3215,
+            "endStation": 3216,
+            "time": 2.43
+        },
+        {
+            "startStation": 3216,
+            "endStation": 3217,
+            "time": 2.25
+        },
+        {
+            "startStation": 3217,
+            "endStation": 3218,
+            "time": 1.85
+        },
+        {
+            "startStation": 3218,
+            "endStation": 3219,
+            "time": 2.23
+        },
+        {
+            "startStation": 3219,
+            "endStation": 3220,
+            "time": 1.67
+        },
+        {
+            "startStation": 3220,
+            "endStation": 3221,
+            "time": 1.65
+        },
+        {
+            "startStation": 3221,
+            "endStation": 3222,
+            "time": 1.6800000000000002
+        },
+        {
+            "startStation": 3222,
+            "endStation": 3223,
+            "time": 1.62
+        },
+        {
+            "startStation": 3223,
+            "endStation": 3224,
+            "time": 1.72
+        },
+        {
+            "startStation": 3224,
+            "endStation": 3225,
+            "time": 2.7
+        },
+        {
+            "startStation": 3225,
+            "endStation": 3226,
+            "time": 2.33
+        },
+        {
+            "startStation": 3226,
+            "endStation": 3227,
+            "time": 2.7,
+            "comment": "incheon2 end"
+        },
+        {
+            "comment": "incheon1",
+            "startStation": 3139,
+            "endStation": 3138,
+            "time": 2.0
+        },
+        {
+            "startStation": 3138,
+            "endStation": 3137,
+            "time": 2.0
+        },
+        {
+            "startStation": 3137,
+            "endStation": 3136,
+            "time": 1.5
+        },
+        {
+            "startStation": 3136,
+            "endStation": 3135,
+            "time": 1.5
+        },
+        {
+            "startStation": 3135,
+            "endStation": 3134,
+            "time": 2.5
+        },
+        {
+            "startStation": 3134,
+            "endStation": 3133,
+            "time": 1.5
+        },
+        {
+            "startStation": 3133,
+            "endStation": 3132,
+            "time": 2.5
+        },
+        {
+            "startStation": 3132,
+            "endStation": 3131,
+            "time": 2.0
+        },
+        {
+            "startStation": 3131,
+            "endStation": 3130,
+            "time": 2.0
+        },
+        {
+            "startStation": 3130,
+            "endStation": 3129,
+            "time": 1.5
+        },
+        {
+            "startStation": 3129,
+            "endStation": 3128,
+            "time": 2.0
+        },
+        {
+            "startStation": 3128,
+            "endStation": 3127,
+            "time": 1.5
+        },
+        {
+            "startStation": 3127,
+            "endStation": 3126,
+            "time": 1.5
+        },
+        {
+            "startStation": 3126,
+            "endStation": 3125,
+            "time": 1.5
+        },
+        {
+            "startStation": 3125,
+            "endStation": 3124,
+            "time": 2.0
+        },
+        {
+            "startStation": 3124,
+            "endStation": 3123,
+            "time": 3.0
+        },
+        {
+            "startStation": 3123,
+            "endStation": 3122,
+            "time": 2.0
+        },
+        {
+            "startStation": 3122,
+            "endStation": 3121,
+            "time": 2.0
+        },
+        {
+            "startStation": 3121,
+            "endStation": 3120,
+            "time": 2.0
+        },
+        {
+            "startStation": 3120,
+            "endStation": 3119,
+            "time": 1.5
+        },
+        {
+            "startStation": 3119,
+            "endStation": 3118,
+            "time": 2.0
+        },
+        {
+            "startStation": 3118,
+            "endStation": 3117,
+            "time": 2.0
+        },
+        {
+            "startStation": 3117,
+            "endStation": 3116,
+            "time": 2.0
+        },
+        {
+            "startStation": 3116,
+            "endStation": 3115,
+            "time": 1.5
+        },
+        {
+            "startStation": 3115,
+            "endStation": 3114,
+            "time": 2.0
+        },
+        {
+            "startStation": 3114,
+            "endStation": 3113,
+            "time": 2.0
+        },
+        {
+            "startStation": 3113,
+            "endStation": 3112,
+            "time": 2.0
+        },
+        {
+            "startStation": 3112,
+            "endStation": 3111,
+            "time": 3.0
+        },
+        {
+            "startStation": 3111,
+            "endStation": 3110,
+            "time": 2.0,
+            "comment": "incheon1 end"
+        },
+        {
+            "comment": "kimpo",
+            "startStation": 4920,
+            "endStation": 4921,
+            "time": 2.7
+        },
+        {
+            "startStation": 4921,
+            "endStation": 4922,
+            "time": 3.0
+        },
+        {
+            "startStation": 4922,
+            "endStation": 4923,
+            "time": 4.0
+        },
+        {
+            "startStation": 4923,
+            "endStation": 4924,
+            "time": 2.5
+        },
+        {
+            "startStation": 4924,
+            "endStation": 4925,
+            "time": 4.5
+        },
+        {
+            "startStation": 4925,
+            "endStation": 4926,
+            "time": 2.5
+        },
+        {
+            "startStation": 4926,
+            "endStation": 4927,
+            "time": 2.5
+        },
+        {
+            "startStation": 4927,
+            "endStation": 4928,
+            "time": 4.58
+        },
+        {
+            "startStation": 4928,
+            "endStation": 4929,
+            "time": 6.5,
+            "comment": "kimpo end"
+        },
+        {
+            "comment": "airport",
+            "startStation": 4215,
+            "endStation": 4213,
+            "time": 6.0
+        },
+        {
+            "startStation": 4213,
+            "endStation": 4212,
+            "time": 4.0
+        },
+        {
+            "startStation": 4212,
+            "endStation": 4211,
+            "time": 4.5
+        },
+        {
+            "startStation": 4211,
+            "endStation": 4217,
+            "time": 4.0
+        },
+        {
+            "startStation": 4217,
+            "endStation": 4210,
+            "time": 8.5
+        },
+        {
+            "startStation": 4210,
+            "endStation": 4209,
+            "time": 5.0
+        },
+        {
+            "startStation": 4209,
+            "endStation": 4208,
+            "time": 6.0
+        },
+        {
+            "startStation": 4208,
+            "endStation": 4207,
+            "time": 6.5
+        },
+        {
+            "startStation": 4207,
+            "endStation": 4206,
+            "time": 3.0
+        },
+        {
+            "startStation": 4206,
+            "endStation": 4204,
+            "time": 7.5
+        },
+        {
+            "startStation": 4204,
+            "endStation": 4203,
+            "time": 4.0
+        },
+        {
+            "startStation": 4203,
+            "endStation": 4202,
+            "time": 3.5
+        },
+        {
+            "startStation": 4202,
+            "endStation": 4201,
+            "time": 4.5,
+            "comment": "airport end"
+        },
+        {
+            "comment": "shinlim",
+            "startStation": 4411,
+            "endStation": 4410,
+            "time": 2.0
+        },
+        {
+            "startStation": 4410,
+            "endStation": 4409,
+            "time": 2.0
+        },
+        {
+            "startStation": 4409,
+            "endStation": 4408,
+            "time": 2.0
+        },
+        {
+            "startStation": 4408,
+            "endStation": 4407,
+            "time": 1.0
+        },
+        {
+            "startStation": 4407,
+            "endStation": 4406,
+            "time": 2.0
+        },
+        {
+            "startStation": 4406,
+            "endStation": 4405,
+            "time": 1.0
+        },
+        {
+            "startStation": 4405,
+            "endStation": 4404,
+            "time": 2.0
+        },
+        {
+            "startStation": 4404,
+            "endStation": 4403,
+            "time": 1.0
+        },
+        {
+            "startStation": 4403,
+            "endStation": 4402,
+            "time": 2.0
+        },
+        {
+            "startStation": 4402,
+            "endStation": 4401,
+            "time": 1.5,
+            "comment": "shinlim end"
+        },
+        {
+            "comment": "seohae",
+            "startStation": 4815,
+            "endStation": 4814,
+            "time": 3.0
+        },
+        {
+            "startStation": 4814,
+            "endStation": 4813,
+            "time": 2.5
+        },
+        {
+            "startStation": 4813,
+            "endStation": 4812,
+            "time": 3.5
+        },
+        {
+            "startStation": 4812,
+            "endStation": 4811,
+            "time": 3.0
+        },
+        {
+            "startStation": 4811,
+            "endStation": 4810,
+            "time": 3.5
+        },
+        {
+            "startStation": 4810,
+            "endStation": 4809,
+            "time": 2.5
+        },
+        {
+            "startStation": 4809,
+            "endStation": 4808,
+            "time": 4.5
+        },
+        {
+            "startStation": 4808,
+            "endStation": 4807,
+            "time": 4.5
+        },
+        {
+            "startStation": 4807,
+            "endStation": 4806,
+            "time": 2.5
+        },
+        {
+            "startStation": 4806,
+            "endStation": 4805,
+            "time": 3.0
+        },
+        {
+            "startStation": 4805,
+            "endStation": 4804,
+            "time": 3.5
+        },
+        {
+            "startStation": 4804,
+            "endStation": 1982,
+            "time": 3.5
+        },
+        {
+            "startStation": 1982,
+            "endStation": 1981,
+            "time": 3.0
+        },
+        {
+            "startStation": 1981,
+            "endStation": 1980,
+            "time": 5.0
+        },
+        {
+            "startStation": 1980,
+            "endStation": 10411,
+            "time": 7.0
+        },
+        {
+            "startStation": 10411,
+            "endStation": 10311,
+            "time": 3.5
+        },
+        {
+            "startStation": 10311,
+            "endStation": 10511,
+            "time": 3.0
+        },
+        {
+            "startStation": 10511,
+            "endStation": 10611,
+            "time": 2.5
+        },
+        {
+            "startStation": 10611,
+            "endStation": 10711,
+            "time": 2.5,
+            "comment": "seohae end"
+        },
+        {
+            "comment": "gyunggang",
+            "startStation": 1511,
+            "endStation": 1510,
+            "time": 5.0
+        },
+        {
+            "startStation": 1510,
+            "endStation": 1509,
+            "time": 6.5
+        },
+        {
+            "startStation": 1509,
+            "endStation": 1508,
+            "time": 4.0
+        },
+        {
+            "startStation": 1508,
+            "endStation": 1507,
+            "time": 6.0
+        },
+        {
+            "startStation": 1507,
+            "endStation": 1506,
+            "time": 5.5
+        },
+        {
+            "startStation": 1506,
+            "endStation": 1505,
+            "time": 4.5
+        },
+        {
+            "startStation": 1505,
+            "endStation": 1504,
+            "time": 4.5
+        },
+        {
+            "startStation": 1504,
+            "endStation": 1503,
+            "time": 5.0
+        },
+        {
+            "startStation": 1503,
+            "endStation": 1502,
+            "time": 5.5
+        },
+        {
+            "startStation": 1502,
+            "endStation": 1512,
+            "time": 2.0
+        },
+        {
+            "startStation": 1512,
+            "endStation": 1501,
+            "time": 2.5,
+            "comment": "gyunggang end"
+        },
+        {
+            "comment": "everline",
+            "startStation": 4517,
+            "endStation": 4515,
+            "time": 3.2800000000000002
+        },
+        {
+            "startStation": 4515,
+            "endStation": 4514,
+            "time": 1.43
+        },
+        {
+            "startStation": 4514,
+            "endStation": 4513,
+            "time": 2.12
+        },
+        {
+            "startStation": 4513,
+            "endStation": 4512,
+            "time": 1.5699999999999998
+        },
+        {
+            "startStation": 4512,
+            "endStation": 4511,
+            "time": 1.5
+        },
+        {
+            "startStation": 4511,
+            "endStation": 4510,
+            "time": 1.38
+        },
+        {
+            "startStation": 4510,
+            "endStation": 4509,
+            "time": 1.5699999999999998
+        },
+        {
+            "startStation": 4509,
+            "endStation": 4508,
+            "time": 1.5699999999999998
+        },
+        {
+            "startStation": 4508,
+            "endStation": 4506,
+            "time": 3.07
+        },
+        {
+            "startStation": 4506,
+            "endStation": 4505,
+            "time": 1.4
+        },
+        {
+            "startStation": 4505,
+            "endStation": 4504,
+            "time": 1.72
+        },
+        {
+            "startStation": 4504,
+            "endStation": 4503,
+            "time": 1.5699999999999998
+        },
+        {
+            "startStation": 4503,
+            "endStation": 4502,
+            "time": 1.55
+        },
+        {
+            "startStation": 4502,
+            "endStation": 4501,
+            "time": 1.78,
+            "comment": "everline end"
+        },
+        {
+            "comment": "gtx a start",
+            "startStation": 9007,
+            "endStation": 9008,
+            "time": 7
+        },
+        {
+            "startStation": 9008,
+            "endStation": 9009,
+            "time": 7
+        },
+        {
+            "startStation": 9009,
+            "endStation": 9010,
+            "time": 7
+        }
+    ]
+}
